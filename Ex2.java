@@ -1,4 +1,4 @@
-//203834023 Matan Neiman
+// Matan Neiman
 
 public class Ex2 {
 
